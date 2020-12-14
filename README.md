@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![step1](https://user-images.githubusercontent.com/70937846/102028387-88abec00-3ddc-11eb-82dc-1d586ef5ec05.jpg)
 
-- Tunggu sampai proses selesai, jika muncul error seperti ini.
+- Tunggu sampai proses selesai, kemudian muncul error seperti ini.
 
 ![step2](https://user-images.githubusercontent.com/70937846/102028431-dc1e3a00-3ddc-11eb-8268-9ab8ac541ca6.jpg)
 
