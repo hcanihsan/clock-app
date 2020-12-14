@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - Tunggu sampai proses selesai, kemudian akan muncul error seperti ini.
 ![step2](https://user-images.githubusercontent.com/70937846/102028431-dc1e3a00-3ddc-11eb-8268-9ab8ac541ca6.jpg)
 
-- Mohon untuk close(tutup) dan buka kembali file projectnya. Terima kasih :)
+- Mohon untuk close(tutup) dan buka kembali file projectnya. Project flutter siap di Run.
